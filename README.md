@@ -1,2 +1,1 @@
-# cs-rs
-Computer Science Rust
+# Learn Compute Rust
